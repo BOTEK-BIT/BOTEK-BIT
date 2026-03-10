@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 ¡Hola, soy Kevin!
 
-<!--
-**BOTEK-BIT/BOTEK-BIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Backend Developer** enfocado en **Java** y **PHP**. Apasionado por crear soluciones que faciliten la vida de las empresas y mejorar procesos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías
+- ☕ Java / Spring Boot  
+- 🐘 PHP / Laravel  
+- 🗄️ SQL  
+- 🌐 REST APIs
+
+---
+
+## 🚀 Proyectos Destacados
+- 📦 Sistema de Inventario  
+- 📊 CRM de Ventas  
+- 🛵 Web Delivery
+
+---
+
+## ⚙️ Herramientas
+- 🐙 Git  
+- 🐧 Linux  
+- 📮 Postman
+
+---
+
+✨ Siempre aprendiendo y explorando nuevas tecnologías para seguir creciendo como desarrollador.
