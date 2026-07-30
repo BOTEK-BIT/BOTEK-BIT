@@ -1,29 +1,10 @@
-# 👋 ¡Hola, soy Kevin!
+# 👋 BOteK
 
-💻 **Backend Developer** enfocado en **Java** y **PHP**. Apasionado por crear soluciones que faciliten la vida de las empresas y mejorar procesos.
+🌾 Future farmer.
 
----
+🐵 Bloons TD 6 enjoyer.
 
-## 🛠️ Tecnologías
-- ☕ Java / Spring Boot  
-- 🐘 PHP / Laravel  
-- 🗄️ SQL  
-- 🌐 REST APIs
+❤️ In love with my sweetheart.
 
----
+🌊 Tidal prankster.
 
-## 🚀 Proyectos Destacados
-- 📦 Sistema de Inventario  
-- 📊 CRM de Ventas  
-- 🛵 Web Delivery
-
----
-
-## ⚙️ Herramientas
-- 🐙 Git  
-- 🐧 Linux  
-- 📮 Postman
-
----
-
-✨ Siempre aprendiendo y explorando nuevas tecnologías para seguir creciendo como desarrollador.
